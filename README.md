@@ -23,8 +23,8 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Program:
 ```
-DEVELOPED BY: ANISH RAJ P
-REGISTER NO: 212222230010
+DEVELOPED BY: Subishesh P
+REGISTER NO: 212223230220
 ```
 ```python
 
